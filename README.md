@@ -1,1 +1,1 @@
-'#A simple django password generator' 
+# A simple django password generator
